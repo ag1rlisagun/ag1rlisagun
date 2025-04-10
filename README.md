@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">In my free time I'm either reading, coding, gaming, or cycling through one of my many other hobbies (music production, video editing, learning instruments, or picking up drawing again every few moons).</p>
+<p align="center">In my free time I'm either reading, coding, or watching Twin Peaks.</p>
 
 ###
 
