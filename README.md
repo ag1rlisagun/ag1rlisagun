@@ -1,20 +1,20 @@
-<h1 align="center">Hii 👋🏽 I'm Aaliyah (she/her) 👩🏽‍💻</h1>
+<h1 align="left">Hii 👋🏽 I'm Aaliyah (she/her) 👩🏽‍💻 Welcome to my profile! </h1>
+
+###
+ 
+<h2 align="left">I am a junior developer interested in software and games, and a student at the University of Alberta doing a major in Computing Science and a minor in Psychology.</h2>
 
 ###
 
-<h2 align="center">Welcome to my profile! I am a student at the University of Alberta doing a Major in Computing Science and a Minor in Psychology.</h2>
+<p align="left">In my free time I love reading, coding, learning something new and watching Twin Peaks.</p>
 
 ###
 
-<p align="center">In my free time I'm either reading, coding, or watching Twin Peaks.</p>
+<h2 align="left">Tools⚒️</h2>
 
 ###
 
-<h2 align="center">Tools⚒️</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
