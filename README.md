@@ -56,9 +56,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ag1rlisagun&show_icons=true&locale=en" alt="ag1rlisagun" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ag1rlisagun&" alt="ag1rlisagun" /></p>
-</div>
-
 ###
