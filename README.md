@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Welcome to my profile! I am a student at the University of Alberta doing a Major in Computing Science with a Minor in Psychology.</h2>
+<h2 align="center">Welcome to my profile! I am a student at the University of Alberta doing a Major in Computing Science and a Minor in Psychology.</h2>
 
 ###
 
