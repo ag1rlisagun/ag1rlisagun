@@ -13,9 +13,10 @@
  </div>
 </div>
 
-<div align="left">
- ![](https://komarev.com/ghpvc/?username=ag1rlisagun)
-</div>
+###
+
+![](https://komarev.com/ghpvc/?username=ag1rlisagun)
+###
 
 <div align="left">
  <a href="https://www.python.org/">
