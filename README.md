@@ -14,6 +14,10 @@
 </div>
 
 <div align="left">
+ ![](https://komarev.com/ghpvc/?username=ag1rlisagun)
+</div>
+
+<div align="left">
  <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="5" />
