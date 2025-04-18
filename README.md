@@ -10,11 +10,18 @@
 
 ###
 
-<h2 align="center">Tools⚒️</h2>
+<div align="left" style="display: flex; flex-flow: column nowrap; width: 100%;">
+  <img 
+    src="https://github-readme-stats-rongronggg9.vercel.app/api?username=ag1rlisagun&count_private=true&include_all_commits=true&show_icons=true" 
+    align="left"
+    height="150" alt="stats graph"  
+  />
+  <img height="150" align="right" src="https://avatars.githubusercontent.com/u/91238995?v=4"  />
+</div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
@@ -55,3 +62,4 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
 </div>
+
