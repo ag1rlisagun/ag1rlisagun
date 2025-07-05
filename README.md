@@ -9,7 +9,7 @@
      align="left"
      height="150" alt="stats graph"  
    />
-  <img width="200" align="right" src="https://raw.githubusercontent.com/ag1rlisagun/ag1rlisagun/refs/heads/main/laptop_nanou.jpeg"  />
+  <img width="150" align="right" src="https://raw.githubusercontent.com/ag1rlisagun/ag1rlisagun/refs/heads/main/laptop_nanou.jpeg"  />
  </div>
 </div>
 
