@@ -7,7 +7,7 @@
    <img 
      src="https://github-readme-stats-rongronggg9.vercel.app/api?username=ag1rlisagun&count_private=true&include_all_commits=true&show_icons=true" 
      align="left"
-     height="100" alt="stats graph"  
+     height="150" alt="stats graph"  
    />
   <img width="150" align="right" src="https://raw.githubusercontent.com/ag1rlisagun/ag1rlisagun/refs/heads/main/laptop_nanou.jpeg"  />
  </div>
