@@ -1,6 +1,6 @@
 <h1 align="center">Hii, I'm Aaliyah👋🏽 Welcome to my profile!👩🏽‍💻 </h1>
 
-<h2 align="center">Computing Science student at the University of Alberta (graduating June 2026), minoring in Psychology. I build software: embedded systems, full-stack web, CI/CD pipelines, and I run a small practice helping Edmonton businesses get found on Google.</h2>
+<h2 align="left">Computing Science student at the University of Alberta (graduating June 2026), minoring in Psychology. I build software: embedded systems, full-stack web, CI/CD pipelines, and I run a small practice helping Edmonton businesses get found on Google.</h2>
 
 <h3 align="left">🛰️ Currently leading software for <a href="https://github.com/MissionSpaceWalker">CAN-SBX 2025–26</a> at Mission SpaceWalker Club  
 
@@ -8,7 +8,7 @@
 ✉️ aaliyah@wusu.ca  
 </h3>
 
-<h4 align="center">Open to SWE and PM roles.
+<h4 align="left">Open to SWE and PM roles.
 </h4>
 
 <div align="left">
