@@ -5,10 +5,7 @@
 <h3 align="left">🛰️ Currently leading software for <a href="https://github.com/MissionSpaceWalker">CAN-SBX 2025–26</a> at Mission SpaceWalker Club  
 
  🌐 <a href="https://aaliyahwusu.ca">aaliyahwusu.ca</a> — portfolio and web/SEO practice   
-
- 💼 <a href="https://www.linkedin.com/in/aaliyahwusu">LinkedIn  </a>  
-
- ✉️ aaliyah@wusu.ca  
+✉️ aaliyah@wusu.ca  
 </h3>
 
 <h4 align="center">Open to SWE and PM roles.
